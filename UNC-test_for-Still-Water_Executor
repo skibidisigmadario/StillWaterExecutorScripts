@@ -1,3 +1,13 @@
+-- yes i know ur here to check if we faked our unc
+-- smile!!
+--[[
+         _
+     _n_|_|_,_
+    |===.-.===|
+    |  ((_))  |
+    '==='-'==='
+--]]
+
 local passes, fails, undefined = 0, 0, 0
 local running = 0
 
